@@ -869,11 +869,11 @@ section {
   height: 350px;
 }
 
-#contact-us {
+/* #contact-us {
   padding-bottom: 90px; 
    background-image: url(/images/team/contact-bg.jpg)
 }
-
+ */
 #contact-us .heading {
   padding-top: 95px;
 }
