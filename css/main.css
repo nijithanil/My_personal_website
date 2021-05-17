@@ -870,8 +870,8 @@ section {
 }
 
 #contact-us {
-   background-image: url(../images/team/contact-bg.jpg);
   padding-bottom: 90px; 
+   background-image: url(/images/team/contact-bg.jpg)
 }
 
 #contact-us .heading {
