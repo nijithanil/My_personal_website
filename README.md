@@ -1,4 +1,4 @@
-# NIJITHANILSECONDREPOSITORY
+# MY PERSONAL WEBSITE
 
 This is my personal website using template.
 
